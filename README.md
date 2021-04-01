@@ -1,1 +1,5 @@
-# data_science_strategy_udacity
+#100 days data strategy plan 
+
+Project work for the Udacity Executive program : data science for business leaders : https://www.udacity.com/course/data-science-for-business-leaders--nd045
+
+Case study: first 100 days in establishing a data science practice in a corporate local operating company  
